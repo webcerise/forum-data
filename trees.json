@@ -1,0 +1,56 @@
+{
+  "targaryen": {
+    "type": "couple",
+    "left": "jaehaerys",
+    "right": "alysanne",
+
+    "children": [
+      {
+        "type": "couple",
+        "left": "aemon",
+        "right": "jocelyne",
+
+        "children": [
+          "rhaenys"
+        ]
+      },
+
+      {
+        "type": "couple",
+        "left": "baelon",
+        "right": "alyssa",
+
+        "children": [
+          "viserys",
+          "daemon"
+        ]
+      },
+
+      "maegelle",
+      "vaegon",
+
+      {
+        "type": "couple",
+        "left": "daella",
+        "right": "rodrik"
+      },
+
+      "saera",
+      "viserra",
+      "gael"
+    ]
+  },
+
+  "stark": {
+    "type": "couple",
+    "left": "bennard",
+    "right": "bethany",
+
+    "children": [
+      "edric",
+      "elena",
+      "ellard",
+      "benjen"
+    ]
+  }
+}
