@@ -1,4 +1,4 @@
-const DATA_URL = "https://tonpseudo.github.io/forum-data/";
+const DATA_URL = window.FAMILY_DATA_URL || "https://webcerise.github.io/forum-data/";
 
 Promise.all([
   fetch(DATA_URL + "characters.json").then(r => r.json()),
@@ -15,6 +15,16 @@ function renderAllFamilies(characters, houses, trees) {
   root.innerHTML = Object.keys(houses).map(houseId => {
     return renderHousePage(houseId, houses[houseId], trees[houseId], characters);
   }).join("");
+
+  const menu = document.querySelector("#gtreeMenu");
+if (menu) {
+  menu.innerHTML = Object.keys(houses).map(houseId => `
+    <a onclick="gtreeGo('fam-${houseId}')">
+      <img src="${houses[houseId].sigil}">
+      <span>${houses[houseId].name.replace("Maison ", "")}</span>
+    </a>
+  `).join("");
+}
 
   document.querySelectorAll(".gtree-canvas").forEach(initCanvas);
 }
