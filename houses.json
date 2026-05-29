@@ -1,0 +1,13 @@
+{
+  "targaryen": {
+    "name": "Maison Targaryen",
+    "motto": "Feu et Sang",
+    "sigil": "https://awoiaf.westeros.org/images/thumb/1/1e/House_Targaryen.svg/250px-House_Targaryen.svg.png"
+  },
+
+  "stark": {
+    "name": "Maison Stark",
+    "motto": "L'Hiver vient",
+    "sigil": "https://awoiaf.westeros.org/images/thumb/7/7e/House_Stark.svg/250px-House_Stark.svg.png"
+  }
+}
