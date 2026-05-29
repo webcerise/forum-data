@@ -1,0 +1,192 @@
+{
+  "jaehaerys": {
+    "name": "Jaehaerys",
+    "title": "Roi",
+    "age": 47,
+    "epithet": "le Conciliateur",
+    "status": "pnj"
+  },
+
+  "alysanne": {
+    "name": "Alysanne",
+    "title": "Reine",
+    "age": 45,
+    "epithet": "la Bonne Reine",
+    "status": "libre",
+    "profile": "[PROFIL_ALYSANNE]",
+    "avatar": "https://64.media.tumblr.com/325eedcfc2da0126e30e8ef32657187d/11dba512b60ec635-34/s500x750/ff80f4094c793b57a32c53b67ec583b60d28a85b.png",
+    "fc": "Alexandra Moen"
+  },
+
+  "aemon": {
+    "name": "Aemon",
+    "title": "Prince",
+    "age": 27,
+    "status": "libre",
+    "profile": "[PROFIL_AEMON]",
+    "avatar": "https://64.media.tumblr.com/655d11ec78194257b4fc8f26ebfa5881/96b9f0907bcc5e5b-13/s500x750/d3a06876238b3c496c9d7f5f7578379c6045d1d9.png",
+    "fc": "Callum Turner"
+  },
+
+  "jocelyne": {
+    "name": "Jocelyne Baratheon",
+    "title": "Princesse",
+    "age": 28,
+    "status": "played",
+    "profile": "[PROFIL_JOCELYNE]",
+    "avatar": "https://64.media.tumblr.com/7d068fb69e904c844a4e697b0c524658/55dd8cb3fbe09057-17/s500x750/456c275e55995ee6c0577160b119190a086e4e29.jpg",
+    "fc": "Simone Ashley"
+  },
+
+  "rhaenys": {
+    "name": "Rhaenys",
+    "title": "Princesse",
+    "age": 8,
+    "status": "pnj"
+  },
+
+  "baelon": {
+    "name": "Baelon",
+    "title": "Prince",
+    "age": 25,
+    "epithet": "le Brave",
+    "status": "played",
+    "profile": "https://conciliator.forumactif.com/u2",
+    "avatar": "https://64.media.tumblr.com/6de246cca4f2a75e6fd610191f8f3288/4cdf02972ea064bf-bd/s500x750/a9df859ff62b34eb6074bbf16300d9cdba20b4bf.jpg",
+    "fc": "Finn Bennett"
+  },
+
+  "alyssa": {
+    "name": "Alyssa",
+    "title": "Princesse",
+    "age": 21,
+    "status": "libre",
+    "profile": "[PROFIL_ALYSSA]",
+    "avatar": "https://64.media.tumblr.com/cda4d209ce84edb087be92fb6c8a8171/b366c0fa65877416-18/s500x750/cd0560c2f1e62696eba4faaef713055fc357e242.png",
+    "fc": "Diane Kruger"
+  },
+
+  "viserys": {
+    "name": "Viserys",
+    "title": "Prince",
+    "age": 5,
+    "status": "pnj"
+  },
+
+  "daemon": {
+    "name": "Daemon",
+    "title": "Prince",
+    "age": 0,
+    "status": "pnj"
+  },
+
+  "maegelle": {
+    "name": "Maegelle",
+    "title": "Septa",
+    "age": 20,
+    "status": "libre",
+    "profile": "[PROFIL_MAEGELLE]",
+    "avatar": "https://64.media.tumblr.com/8e5bd72135b639823a000adf97a58719/9961a6c3a1fc83e0-a6/s500x750/f454647bfa593ba2a238db1a89551ec1b0df247b.jpg",
+    "fc": "Milly Alcock"
+  },
+
+  "vaegon": {
+    "name": "Vaegon",
+    "title": "Archimestre",
+    "age": 19,
+    "epithet": "le Sans-Dragon",
+    "status": "libre",
+    "profile": "[PROFIL_VAEGON]",
+    "avatar": "https://64.media.tumblr.com/1bf2a0187eef2406d052b1cb4efbb573/77636b740751b6cf-8d/s500x750/32d1ce3520b86beb5db2d1a3359a2628ba4fb6be.jpg",
+    "fc": "Tom Glynn-Carney"
+  },
+
+  "daella": {
+    "name": "Daella",
+    "title": "Princesse",
+    "age": 18,
+    "status": "libre",
+    "profile": "[PROFIL_DAELLA]",
+    "avatar": "[AVATAR_DAELLA]",
+    "fc": "Phia Saban"
+  },
+
+  "rodrik": {
+    "name": "Rodrik Arryn",
+    "title": "Lord",
+    "age": 38,
+    "status": "played",
+    "profile": "[PROFIL_RODRIK]",
+    "avatar": "[AVATAR_RODRIK]",
+    "fc": "Xiao Shunyao"
+  },
+
+  "saera": {
+    "name": "Saera",
+    "title": "Princesse",
+    "age": 15,
+    "status": "pnj"
+  },
+
+  "viserra": {
+    "name": "Viserra",
+    "title": "Princesse",
+    "age": 11,
+    "status": "pnj"
+  },
+
+  "gael": {
+    "name": "Gael",
+    "title": "Princesse",
+    "age": 1,
+    "epithet": "l'Enfant de l'Hiver",
+    "status": "pnj"
+  },
+
+  "bennard": {
+    "name": "Bennard Stark",
+    "title": "Lord",
+    "status": "dead"
+  },
+
+  "bethany": {
+    "name": "Bethany Stark",
+    "title": "Lady",
+    "epithet": "née Nerbosc",
+    "status": "pnj"
+  },
+
+  "edric": {
+    "name": "Edric Stark",
+    "title": "Lord",
+    "age": 20,
+    "status": "libre",
+    "avatar": "https://64.media.tumblr.com/a0aa95985feb3cc2685e6d971d3d2289/eab9cd42ee8e9763-6c/s500x750/6bda1a96f9f14e03abc684500a39f17932025852.jpg",
+    "fc": "Moon Sang-min"
+  },
+
+  "elena": {
+    "name": "Elena Stark",
+    "title": "Lady",
+    "age": 18,
+    "status": "libre",
+    "avatar": "https://64.media.tumblr.com/9952982f7194e4d8b341cbfc019ad75e/ce2e6a2b765479be-a6/s500x750/4b499e20ce7b2873efefa9fea4e16f81cf99368b.jpg",
+    "fc": "Choi Yewon"
+  },
+
+  "ellard": {
+    "name": "Ellard Stark",
+    "title": "Ser",
+    "age": 18,
+    "status": "libre",
+    "avatar": "https://64.media.tumblr.com/49387016bda47d41b521f94d9b54eab9/c8d4d9c91b200b73-fd/s500x750/a0d1a0dc1d5fb12790edeb6c1ad15aee52121fee.jpg",
+    "fc": "Kim Yoon-woo"
+  },
+
+  "benjen": {
+    "name": "Benjen Stark",
+    "title": "Ser",
+    "age": 15,
+    "status": "pnj"
+  }
+}
